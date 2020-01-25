@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import HtmlPreview from "./components/html-preview/HtmlPreview";
+import HtmlPreview from "./components/html-preview/HtmlPreview.vue";
 export default {
   name: "app",
   components: {
