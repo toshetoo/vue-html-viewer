@@ -1,3 +1,9 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/toshetoo/vue-html-viewer)
+![npm](https://img.shields.io/npm/dw/vue-html-viewer)
+![GitHub issues](https://img.shields.io/github/issues/toshetoo/vue-html-viewer)
+![GitHub](https://img.shields.io/github/license/toshetoo/vue-html-viewer)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/toshetoo/vue-html-viewer)
+
 # vue-html-viewer
 
 ## Setup
